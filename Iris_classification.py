@@ -18,6 +18,7 @@ _ = ax.legend(
 )
 plt.show()
 
+
 # Scatter plot of the dataset in 3D
 import mpl_toolkits.mplot3d  # noqa: F401
 
