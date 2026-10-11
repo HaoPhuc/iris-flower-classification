@@ -1,3 +1,1 @@
-I saw on Youtube that this is the "Hello World" of machine learning, so I decided to do this as one of my first projects.
-
-# Iris_classification:
+This repository contains the notebooks for me to practice basic ML using 2 iris flowers dataset found on sklearn and kaggle.
